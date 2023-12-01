@@ -1,0 +1,52 @@
+Esse arquivo contém uma breve descrição do módulo de desafio.
+
+Professor: Venilto Falto Jr.
+
+
+--------------------------
+--------------------------
+--------------------------
+--------------------------
+
+INTRODUÇÃO E APRESENTAÇÃO DO CURSO
+
+O desafio é reforçar o aprendizado do git/github.
+
+
+--------------------------
+--------------------------
+--------------------------
+--------------------------
+
+GIT E GITHUB: RELEMBRANDO ALGUMAS COISINHAS
+
+Criar um repositório.
+dio-desafio-github-primeiro-repositorio.
+Deixar público.
+Adicionar README file.
+
+Commitar uma alteração do repositório feita no github.
+
+Clonar o repositório para o git local.
+
+A intenção desse desafio é organização. Apesar de eu já usar as ferramentas, é legal revisar.
+
+
+--------------------------
+--------------------------
+--------------------------
+--------------------------
+
+DESAFIO DE PROJETO
+
+
+Criar um repositório.
+
+--------------------------
+--------------------------
+--------------------------
+--------------------------
+
+ENTENDENDO O DESAFIO
+
+Descrição do desafio.
